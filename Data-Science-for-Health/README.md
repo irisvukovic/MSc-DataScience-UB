@@ -1,13 +1,10 @@
 # Data Science for Health
 
-**Course Description:**  
 This course explores the development of data-driven solutions in healthcare, focusing on understanding real-world health problems and applying critical thinking skills to derive knowledge from clinical and non-clinical data sources. It emphasizes the use of data science methods to generate actionable insights in medical contexts.
 
 ---
 
 ## Assignments / Projects
-
-Each project includes a brief description and the dataset used. Click the project name to access the corresponding notebook or file.
 
 ### 1. [Predicting ICU Length of Stay](./dsh_assignment1_irisvukovic.ipynb/)
 **Description:** Predict whether a patient’s Length of Stay (LOS) in the ICU is short or long using two strategies:  
