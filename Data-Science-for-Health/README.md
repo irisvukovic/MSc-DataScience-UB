@@ -36,7 +36,7 @@ Each project includes a brief description and the dataset used. Click the projec
 ---
 
 ### 4. [Assignment 4: Transparency of Deep Neural Networks](./dsh_assignment4_irisvukovic_juliavirgili.pdf/)
-**Description:** Reviewed the paper *“Interpretability of Deep Neural Networks”* and created a presentation titled **Transparency of Deep Neural Networks for Medical Image Analysis: A Review of Interpretability Methods**. Focused on understanding methods for interpreting deep learning models in medical imaging.  
+**Description:** Reviewed the paper *“Transparency of deep neural networks for medical image analysis: A review of interpretability methods”* and created a presentation focused on explaining different methods for interpreting deep learning models in medical imaging.  
 
-Citation: 
+- Salahuddin, Z., Woodruff, H. C., Chatterjee, A., & Lambin, P. (2022). *Transparency of deep neural networks for medical image analysis: A review of interpretability methods.* Computers in Biology and Medicine, 140, 105111. [Link](https://www.sciencedirect.com/science/article/pii/S0010482521009057)
 
