@@ -1,6 +1,6 @@
 # Complex Networks
 
-This course explores the underlying structures, dynamics, and interactions of real, complex networks. 
+This course explores the underlying structures, dynamics, and interactions of real-world complex networks. 
 
 ## Projects / Assignments
 
