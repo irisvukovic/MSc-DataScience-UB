@@ -1,6 +1,6 @@
 # Complex Networks
 
-This course explores the analysis of complex networks, focusing on understanding the structure, dynamics, and interactions within real-world networks. 
+This course explores the underlying structures, dynamics, and interactions of real, complex networks. 
 
 ## Projects / Assignments
 
